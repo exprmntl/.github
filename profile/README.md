@@ -16,4 +16,4 @@ We’re a software lab developing, launching, and growing our own software produ
 - **[Flight Currency](https://chromewebstore.google.com/detail/google-flights-currency-s/nameliafoadmpledepdbcgnogcnfiemo)** — A currency extension for Google Flights.
 - **[badminton.fyi](https://badminton.fyi/)** — Compare badminton racket specifications, prices, and popularity.
 
-[Website](https://experimental.software/) · [Brand guide](https://experimental.software/brand) · [Contact](mailto:hello@experimental.software)
+[Website](https://experimental.software/) · [Contact](mailto:hello@experimental.software)
